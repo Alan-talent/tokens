@@ -1,0 +1,9 @@
+{    "name": "Badger", 
+    "website": "imgood", 
+    "description": "生死看淡，不服就干！", 
+    "type": "BEP20", 
+    "symbol": "Badger", 
+    "decimals": 9, 
+    "status": "active", 
+    " id ":"0x14bD043ab0875a62dCc911c6e12742ed8602F504"
+}
